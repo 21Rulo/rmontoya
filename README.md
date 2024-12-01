@@ -3,6 +3,15 @@
  <p/>
 <h1 align="center"> Hola! Bienvenidos <3 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
+
+<a href="https://bsky.app/profile/rmontoya21.bsky.social">
+<img src="https://github.com/user-attachments/assets/550db207-c748-46cf-ad25-64836b63ecb6" width="35px"/></a>
+<a href="mailto:rulomds21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<hr>
+<h2>Acerca de mí</h2>
+
 Me llamo <strong>Raul Montoya</strong> y estudio Ingeniería en Sistemas Computacionales 💻.
 <p>Me apasiona el desarrollo web y de aplicaciones móviles, ya que me permite crear experiencias digitales interactivas y útiles, impactando de manera positiva en la vida de los usuarios.</p>
 
@@ -12,12 +21,8 @@ Me llamo <strong>Raul Montoya</strong> y estudio Ingeniería en Sistemas Computa
 - 🤔 Estoy en búsqueda de una pasantía para adquirir experiencia.
 - :speech_balloon: Estoy aquí para responder cualquier pregunta.
   
-<strong><h3>:mailbox: Contacto</h3></strong>
+<p>:mailbox: <b>Contacto: </b><a href="mailto:rulomds21@gmail.com">rulomds21@gmail.com</a></p>
 
-[<img src="https://github.com/user-attachments/assets/550db207-c748-46cf-ad25-64836b63ecb6" width="35px"/>](https://bsky.app/profile/rmontoya21.bsky.social)
-<a href="mailto:rulomds21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 
 <hr>
