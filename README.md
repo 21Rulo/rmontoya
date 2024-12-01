@@ -8,14 +8,17 @@ Me llamo <strong>Raul Montoya</strong> y estudio Ingeniería en Sistemas Computa
 
 <!-- TODO: Add last video link -->
 
-- :seedling: Actualmente estoy aprendiendo Vue.js.
+- :seedling: Actualmente estoy aprendiendo <i><b>Vue.js</b></i>
 - 🤔 Estoy en búsqueda de una pasantía para adquirir experiencia.
 - :speech_balloon: Estoy aquí para responder cualquier pregunta.
   
 <strong><h3>:mailbox: Contacto</h3></strong>
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](rulomds21@gmail.com)
 [<img src="https://github.com/user-attachments/assets/550db207-c748-46cf-ad25-64836b63ecb6" width="35px"/>](https://bsky.app/profile/rmontoya21.bsky.social)
+<a href="mailto:rulomds21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 <hr>
 
