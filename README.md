@@ -40,10 +40,8 @@ Me llamo <strong>Raul Montoya</strong> y estudio Ingeniería en Sistemas Computa
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=21Rulo&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Rulo&theme=dark&layout=compact" width="410" /></p>
 
 ------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
-
-Last Edited on: 21/09/2021
+Last Edited on: 01/12/2024
